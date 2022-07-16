@@ -1,0 +1,29 @@
+.pr {
+  padding-right: 120px;
+}
+
+.align-center {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.section-min-height {
+  min-height: 80vh;
+}
+
+table {
+  display: inline-block;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
+  border: 1px solid black;
+}
+
+table td:nth-child(2) {
+  padding-left: 50px;
+}
+/*# sourceMappingURL=contact.css.map */
